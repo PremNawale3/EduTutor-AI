@@ -1,72 +1,50 @@
-🎓 EduTutor AI – Intelligent Learning Chatbot
+EduTutor AI 🤖📚
 
-EduTutor AI is an AI-powered educational chatbot designed to help students learn programming and machine learning concepts through natural language conversations.
-It provides instant explanations, guidance, and tutoring using a modern chat interface. 
+An AI-powered personalized tutoring platform that helps students learn concepts,
+solve doubts, and generate study materials using AI.
 
-🚀 Features
-🤖 Interactive AI chatbot for learning
-📘 Supports Python, Machine Learning, and general CS queries
-⚡ Fast responses for common questions (FAQ-based)
-🧠 Intelligent fallback using LLM for open-ended questions
-🎨 Clean and modern chat UI
-🧩 Modular and extensible architecture
+🚀 Demo
+Live Website: https://yourlink.com
+Demo Video: https://youtube.com/demo
 
-🛠️ Tech Stack
-Backend: Python, Flask
-Frontend: HTML, CSS, JavaScript
-Logic Engine: Rule-based + modular response engine
-Version Control: GitHub 
+✨ Features
+- AI-powered question answering
+- Personalized tutoring
+- Study material generation
+- Interactive learning chat
+- Subject-wise learning modules
 
-Project Structure
-EduTutor-AI/
-├── app.py              # Flask application entry point
-├── edu_engine.py       # Chatbot logic & response handling
-├── templates/
-│   └── index.html      # Chat UI
-├── static/
-│   ├── style.css       # Styling
-│   └── script.js       # Frontend interaction logic
-├── README.md
-└── .gitignore
+🛠 Tech Stack
+Frontend: React / HTML / CSS
+Backend: Node.js / Flask
+AI: OpenAI / Gemini
+Database: MongoDB / Firebase
 
-▶️ How to Run the Project
-1️⃣ Clone or Download the Repository
-git clone https://github.com/your-username/EduTutor-AI.git
+📸 Screenshots
+(Add UI screenshots)
+
+⚙️ Installation
+
+git clone https://github.com/PremNawale3/EduTutor-AI
+
 cd EduTutor-AI
 
-2️⃣ Install Dependencies
-pip install flask
+npm install
 
-3️⃣ Run the Application
-python app.py
+npm run dev
 
-4️⃣ Open in Browser
-http://127.0.0.1:5000 
+📂 Project Structure
+src/
+components/
+pages/
+api/
+utils/
 
-🧪 Example Questions You Can Ask
-What is Python?
-Explain Python loops
-What is machine learning?
-Difference between AI and ML
-Who are you?
-
-💡 Use Cases
-Educational chatbot for beginners
-AI/ML learning assistant prototype
-Flask-based chatbot project
-Resume-ready full-stack Python project
-
-🔮 Future Enhancements
-Integration with LLMs (OpenAI / Hugging Face / local models)
-Subject-wise tutoring modules
-Conversation memory
-User authentication
-Cloud deployment 
+🧠 Future Improvements
+- Voice tutor
+- AI quiz generator
+- Student progress tracking
+- Multi-language support
 
 👨‍💻 Author
 Prem Nawale
-Aspiring Data Scientist | AI & ML Enthusiast
-🔗 GitHub: https://github.com/PremNawale3
-
-⭐ Support
-If you find this project useful, consider giving it a ⭐ on GitHub.
