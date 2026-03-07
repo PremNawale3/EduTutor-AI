@@ -3,10 +3,6 @@ EduTutor AI 🤖📚
 An AI-powered personalized tutoring platform that helps students learn concepts,
 solve doubts, and generate study materials using AI.
 
-🚀 Demo
-Live Website: https://yourlink.com
-Demo Video: https://youtube.com/demo
-
 ✨ Features
 - AI-powered question answering
 - Personalized tutoring
